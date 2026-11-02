@@ -1,2 +1,6 @@
 # orbits
-An exercise for learning about header files in C++. See instructions [here](./instructions.md)
+A game where you spawn "orbiters" around you.
+
+[Check it out on GitHub Pages!](https://baclooza.github.io/orbits/)
+
+![Game preview](preview.gif)
